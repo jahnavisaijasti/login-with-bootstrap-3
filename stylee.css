@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    padding: 0px;
+}
+
+.card {
+    margin-top: 30px;
+    box-shadow: 0px 0px 60px rgb(57, 165, 142);
+    display: block;
+    float: auto;
+    width: 400px;
+    height: 500px;
+    margin-right: 200px;
+    border-left: 100%;
+}
+
+.card-body {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+.card-title {
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+    content: icon;
+
+}
+
+.card-text {
+    font-size: 14px;
+    color: #1d1c1c;
+    text-align: center;
+}
+
+.form-control {
+    height: 40px;
+    padding: 10px;
+    font-size: 16px;
+    align-items: center;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.btn-link {
+    color: #337ab7;
+    text-decoration: none;
+    align-items: start;
+}
+
+.btn-link:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+.carousel-caption {
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(58, 151, 131);
+    background:white;
+    color: rgb(7, 7, 7);
+    margin-bottom: 50px;
+}
+
+#demo
+{
+    display: block;
+    box-shadow: 0 0 20px rgb(58, 151, 131);
+    float: left;
+    width: 800px;
+    height: auto;
+    border-top: 10px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+
+  .container{
+    margin-left: 0px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
